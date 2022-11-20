@@ -1,0 +1,7 @@
+START 
+LOOP
+{
+VAR c = a + b;
+print(c);
+}
+FINISH
